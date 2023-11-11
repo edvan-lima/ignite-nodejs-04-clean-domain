@@ -5,6 +5,8 @@ Este projeto utiliza Next.js 14.0.2 seguindo os princípios da Clean Architectur
 Estrutura do Projeto
 A estrutura do projeto é organizada de acordo com os conceitos da Clean Architecture, com camadas bem definidas para separar as responsabilidades e facilitar a manutenção e evolução do código.
 
+![alt text](/public/the-clean-architecture.jpg)
+
 ### Estrutura de Diretórios
 
 .
