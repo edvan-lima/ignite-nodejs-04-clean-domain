@@ -9,7 +9,7 @@ A estrutura do projeto é organizada de acordo com os conceitos da Clean Archite
 
 ### Estrutura de Diretórios
 
-.
+```
 ├── src
 │ ├── app
 │ │ ├── layout.tsx
@@ -39,10 +39,10 @@ A estrutura do projeto é organizada de acordo com os conceitos da Clean Archite
 │ ├── domain
 │ │ ├── forum
 │ │ │ ├── application
-│ │ │ │ ├── repositories  
+│ │ │ │ ├── repositories
 │ │ │ │ └── use-cases
 │ │ │ ├── enterprise
-│ │ │ │ ├── entities  
+│ │ │ │ ├── entities
 │ │ │ │ └── events
 │ │ ├── ...
 │ │ │ ├── ...
@@ -51,17 +51,17 @@ A estrutura do projeto é organizada de acordo com os conceitos da Clean Archite
 │ ├── test
 │ │ ├── forum
 │ │ │ ├── application
-│ │ │ │ ├── repositories  
+│ │ │ │ ├── repositories
 │ │ │ │ └── use-cases
 │ │ │ ├── enterprise
-│ │ │ │ ├── entities  
+│ │ │ │ ├── entities
 │ │ │ │ └── events
 │ │ ├── notification
 │ │ │ ├── application
-│ │ │ │ ├── repositories  
+│ │ │ │ ├── repositories
 │ │ │ │ └── use-cases
 │ │ │ ├── enterprise
-│ │ │ │ ├── entities  
+│ │ │ │ ├── entities
 │ │ │ │ └── events
 ├── public
 │ └── images
@@ -74,6 +74,7 @@ A estrutura do projeto é organizada de acordo com os conceitos da Clean Archite
 ├── package.json
 ├── README.md
 └── tsconfig.json
+```
 
 ### Descrição dos Diretórios
 
